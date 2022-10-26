@@ -19,7 +19,7 @@ Internally, the code uses HTTP GET requests using windows internal library objec
 
 This version was compiled with harbour using Viktor Szakats fork 3.4 found at:
 
-https://github.com/vszakats/hb/releases
+https://github.com/vszakats/hb/releases/tag/v3.4.0dev
 
 You just need to unzip it to c:\ and will create folder \hb34
 
