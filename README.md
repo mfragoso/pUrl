@@ -6,6 +6,7 @@ Parallel URL utility for retrieving files like hell from web servers
 Usage: purl <TextFileWithUrls>                                                                                                                                                                                                                  The file must contain one line per url, and the filename where to save it.
 
 http://www.google.com,google.htm
+
 http://www.yahoo.com,yahoo.htm
 
 ======================================================================
