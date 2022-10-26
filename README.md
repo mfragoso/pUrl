@@ -1,5 +1,6 @@
 # pUrl
 PUrl 1.0 (c) 2019 Mauricio Fragoso
+
 Parallel URL utility for retrieving files like hell from web servers
 
 Usage: purl <TextFileWithUrls>                                                                                                                                                                                                                  The file must contain one line per url, and the filename where to save it.
